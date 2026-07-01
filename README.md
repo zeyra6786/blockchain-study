@@ -1,1 +1,2 @@
-# blockchain-study
+# July
+- Learning about Merkle trees.
