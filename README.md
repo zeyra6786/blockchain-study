@@ -3,3 +3,4 @@
 - Reviewing common Web3 vulnerabilities.
 - Improving clarity in technical explanations.
 - Exploring interoperability concepts.
+- Reviewing optimistic rollups structure.
