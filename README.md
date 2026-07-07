@@ -4,3 +4,4 @@
 - Improving clarity in technical explanations.
 - Exploring interoperability concepts.
 - Reviewing optimistic rollups structure.
+- Improving clarity in technical explanations.
