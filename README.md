@@ -5,3 +5,4 @@
 - Exploring interoperability concepts.
 - Reviewing optimistic rollups structure.
 - Improving clarity in technical explanations.
+- Refining repository learning structure.
