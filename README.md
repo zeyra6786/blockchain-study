@@ -6,3 +6,4 @@
 - Reviewing optimistic rollups structure.
 - Improving clarity in technical explanations.
 - Refining repository learning structure.
+- Improving organization of research notes.
