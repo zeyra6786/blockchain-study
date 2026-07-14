@@ -9,3 +9,4 @@
 - Improving organization of research notes.
 - Reviewing blockchain scalability tradeoffs.
 - Reviewing blockchain logging patterns.
+- Exploring distributed consensus theory.
