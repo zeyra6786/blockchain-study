@@ -10,3 +10,4 @@
 - Reviewing blockchain scalability tradeoffs.
 - Reviewing blockchain logging patterns.
 - Exploring distributed consensus theory.
+- Learning about lending protocols.
