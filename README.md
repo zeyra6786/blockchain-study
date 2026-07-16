@@ -11,3 +11,4 @@
 - Reviewing blockchain logging patterns.
 - Exploring distributed consensus theory.
 - Learning about lending protocols.
+- Reviewing developer tooling improvements.
