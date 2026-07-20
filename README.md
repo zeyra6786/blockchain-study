@@ -13,3 +13,4 @@
 - Learning about lending protocols.
 - Reviewing developer tooling improvements.
 - Improving my Git workflow step by step.
+- Testing small updates frequently.
