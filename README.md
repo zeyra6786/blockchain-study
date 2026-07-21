@@ -14,3 +14,4 @@
 - Reviewing developer tooling improvements.
 - Improving my Git workflow step by step.
 - Testing small updates frequently.
+- Structuring README more clearly.
