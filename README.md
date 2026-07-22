@@ -15,3 +15,4 @@
 - Improving my Git workflow step by step.
 - Testing small updates frequently.
 - Structuring README more clearly.
+- Studying smart contract security basics.
