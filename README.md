@@ -18,3 +18,4 @@
 - Studying smart contract security basics.
 - Understanding wallet integrations.
 - Improving file structure planning.
+- Exploring wallet security practices.
