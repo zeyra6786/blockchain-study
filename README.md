@@ -19,3 +19,4 @@
 - Understanding wallet integrations.
 - Improving file structure planning.
 - Exploring wallet security practices.
+- Improving technical note clarity.
