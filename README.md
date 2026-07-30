@@ -21,3 +21,4 @@
 - Exploring wallet security practices.
 - Improving technical note clarity.
 - Exploring staking concepts.
+- Learning about network nodes.
