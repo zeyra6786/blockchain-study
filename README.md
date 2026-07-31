@@ -22,3 +22,4 @@
 - Improving technical note clarity.
 - Exploring staking concepts.
 - Learning about network nodes.
+- Reviewing project long-term vision.
