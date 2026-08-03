@@ -23,3 +23,6 @@
 - Exploring staking concepts.
 - Learning about network nodes.
 - Reviewing project long-term vision.
+
+# August 2026
+- Improving understanding of decentralized storage.
