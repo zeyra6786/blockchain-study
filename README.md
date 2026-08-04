@@ -26,3 +26,4 @@
 
 # August 2026
 - Improving understanding of decentralized storage.
+- Researching validator incentives.
