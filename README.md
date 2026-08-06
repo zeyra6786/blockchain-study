@@ -28,3 +28,4 @@
 - Improving understanding of decentralized storage.
 - Researching validator incentives.
 - Studying transaction mempool behavior.
+- Exploring REST API integration concepts.
