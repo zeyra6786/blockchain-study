@@ -29,3 +29,4 @@
 - Researching validator incentives.
 - Studying transaction mempool behavior.
 - Exploring REST API integration concepts.
+- Studying wallet signature flows.
