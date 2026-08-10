@@ -30,3 +30,4 @@
 - Studying transaction mempool behavior.
 - Exploring REST API integration concepts.
 - Studying wallet signature flows.
+- Studying borrowing collateral models.
