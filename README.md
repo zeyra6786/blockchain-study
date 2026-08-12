@@ -32,3 +32,4 @@
 - Studying wallet signature flows.
 - Studying borrowing collateral models.
 - Studying decentralized hosting options.
+- Reviewing blockchain governance case studies.
