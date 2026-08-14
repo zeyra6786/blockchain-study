@@ -34,3 +34,4 @@
 - Studying decentralized hosting options.
 - Reviewing blockchain governance case studies.
 - Expanding knowledge
+- Reviewing CI/CD
