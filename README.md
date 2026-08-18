@@ -36,3 +36,4 @@
 - Expanding knowledge
 - Reviewing CI/CD
 - Learning about testing
+- Learning smart contract deployment
