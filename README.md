@@ -37,3 +37,4 @@
 - Reviewing CI/CD
 - Learning about testing
 - Learning smart contract deployment
+- Exploring blockchain basics
