@@ -40,3 +40,4 @@
 - Exploring blockchain basics
 - Reviewing EIP standards
 - Studying backend interaction
+- Reviewing validator rewards
