@@ -42,3 +42,4 @@
 - Studying backend interaction
 - Reviewing validator rewards
 - Studying smart contract logs
+- Reviewing mock contracts
