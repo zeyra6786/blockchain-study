@@ -43,3 +43,4 @@
 - Reviewing validator rewards
 - Studying smart contract logs
 - Reviewing mock contracts
+- Updating notes
