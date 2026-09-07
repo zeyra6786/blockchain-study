@@ -45,3 +45,4 @@
 - Reviewing mock contracts
 - Updating notes
 - Improving structure
+- Improving markdown flow
