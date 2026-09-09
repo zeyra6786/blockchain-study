@@ -44,5 +44,8 @@
 - Studying smart contract logs
 - Reviewing mock contracts
 - Updating notes
+
+# Sep 2026
 - Improving structure
 - Improving markdown flow
+- Improving markdown
