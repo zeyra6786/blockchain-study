@@ -49,3 +49,4 @@
 - Improving structure
 - Improving markdown flow
 - Improving markdown
+- Updating structure
