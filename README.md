@@ -52,3 +52,4 @@
 - Updating structure
 - Reviewing audits
 - Studying APIs
+- Exploring scalability
