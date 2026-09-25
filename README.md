@@ -53,3 +53,4 @@
 - Reviewing audits
 - Studying APIs
 - Exploring scalability
+- Reviewing staking rewards
