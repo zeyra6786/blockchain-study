@@ -54,3 +54,4 @@
 - Studying APIs
 - Exploring scalability
 - Reviewing staking rewards
+- Studying zk proofs
