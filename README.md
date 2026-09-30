@@ -55,3 +55,4 @@
 - Exploring scalability
 - Reviewing staking rewards
 - Studying zk proofs
+- Exploring governance flow
