@@ -56,3 +56,6 @@
 - Reviewing staking rewards
 - Studying zk proofs
 - Exploring governance flow
+
+# October 2026
+- Practicing consistent commit messages.
