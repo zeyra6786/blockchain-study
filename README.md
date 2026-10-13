@@ -61,3 +61,4 @@
 - Practicing consistent commit messages.
 - Reviewing open source repositories.
 - Understanding pull requests.
+- Practicing small incremental updates.
