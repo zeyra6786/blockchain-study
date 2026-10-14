@@ -62,3 +62,4 @@
 - Reviewing open source repositories.
 - Understanding pull requests.
 - Practicing small incremental updates.
+- Understanding wallet integrations.
