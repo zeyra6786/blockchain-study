@@ -63,3 +63,4 @@
 - Understanding pull requests.
 - Practicing small incremental updates.
 - Understanding wallet integrations.
+- Studying blockchain scalability solutions.
