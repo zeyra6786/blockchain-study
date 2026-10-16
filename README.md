@@ -64,3 +64,4 @@
 - Practicing small incremental updates.
 - Understanding wallet integrations.
 - Studying blockchain scalability solutions.
+- Reviewing transaction lifecycle.
