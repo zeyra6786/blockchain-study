@@ -66,3 +66,4 @@
 - Studying blockchain scalability solutions.
 - Reviewing transaction lifecycle.
 - Reviewing secure coding practices.
+- Improving repository readability.
