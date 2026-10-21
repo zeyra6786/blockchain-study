@@ -67,3 +67,4 @@
 - Reviewing transaction lifecycle.
 - Reviewing secure coding practices.
 - Improving repository readability.
+- Tracking weekly progress summary.
