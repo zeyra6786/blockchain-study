@@ -69,3 +69,4 @@
 - Improving repository readability.
 - Tracking weekly progress summary.
 - Reviewing debugging strategies.
+- Studying blockchain data structures.
