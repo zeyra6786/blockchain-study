@@ -70,3 +70,4 @@
 - Tracking weekly progress summary.
 - Reviewing debugging strategies.
 - Studying blockchain data structures.
+- Reviewing common Web3 vulnerabilities.
