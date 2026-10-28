@@ -72,3 +72,4 @@
 - Studying blockchain data structures.
 - Reviewing common Web3 vulnerabilities.
 - Adding more development reflections.
+- Reviewing optimistic rollups structure.
