@@ -74,3 +74,4 @@
 - Adding more development reflections.
 - Reviewing optimistic rollups structure.
 - Improving commit message consistency further.
+- Improving organization of research notes.
