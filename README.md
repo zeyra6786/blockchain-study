@@ -75,3 +75,6 @@
 - Reviewing optimistic rollups structure.
 - Improving commit message consistency further.
 - Improving organization of research notes.
+
+# November 2026
+-Learning about open source licenses.
