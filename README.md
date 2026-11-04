@@ -79,3 +79,4 @@
 # November 2026
 -Learning about open source licenses.
 - Learning about mock contracts.
+- Reviewing proof of work differences.
